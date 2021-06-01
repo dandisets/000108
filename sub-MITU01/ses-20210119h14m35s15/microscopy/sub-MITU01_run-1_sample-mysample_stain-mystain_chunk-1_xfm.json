@@ -1,0 +1,12 @@
+[
+  {
+    "SourceReferenceFrame": "original",
+    "TargetReferenceFrame": "slabmysample",
+    "TransformationType": "translation-3d",
+    "TransformationParameters": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  }
+]
