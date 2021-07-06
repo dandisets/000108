@@ -5,8 +5,17 @@
 access:
 - status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 427789912257
+  numberOfFiles: 41
+  schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: NGFFtest (2021). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000108/draft
 description: This dataset is for testing out the automated production of NGFF microscopy
   data in preparation for our effort to upload microscopy data to MITU01
