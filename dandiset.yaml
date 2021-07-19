@@ -2,8 +2,12 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000108
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.4.4/context.json
+about: []
 access:
-- status: dandi:OpenAccess
+- contactPoint:
+    schemaKey: ContactPoint
+  schemaKey: AccessRequirements
+  status: dandi:OpenAccess
 assetsSummary:
   approach: []
   dataStandard:
@@ -11,19 +15,36 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 2756545945744
-  numberOfFiles: 182
+  numberOfBytes: 33154660217506
+  numberOfFiles: 1806
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: NGFFtest (2021). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000108/draft
+citation: Kamentsky, Lee (2021) NGFFtest (Version draft) [Data set]. DANDI archive.
+  https://dandiarchive.org/dandiset/000108/draft
+contributor:
+- affiliation: []
+  includeInCitation: true
+  name: Kamentsky, Lee
+  roleName:
+  - dcite:ContactPerson
+  schemaKey: Person
 description: This dataset is for testing out the automated production of NGFF microscopy
   data in preparation for our effort to upload microscopy data to MITU01
+ethicsApproval: []
 id: DANDI:000108/draft
 identifier: DANDI:000108
+keywords: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation: []
 name: NGFFtest
+protocol: []
+relatedResource: []
+repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.4.4
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000108/draft
 version: draft
+wasGeneratedBy: []
