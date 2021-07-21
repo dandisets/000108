@@ -9,19 +9,10 @@ access:
   schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  approach: []
-  dataStandard:
-  - identifier: RRID:SCR_016124
-    name: Brain Imaging Data Structure (BIDS)
-    schemaKey: StandardsType
-  measurementTechnique: []
-  numberOfBytes: 33154660217506
-  numberOfFiles: 1806
-  schemaKey: AssetsSummary
-  species: []
-  variableMeasured: []
-citation: Kamentsky, Lee (2021) NGFFtest (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000108/draft
+  numberOfBytes: 0
+  numberOfFiles: 0
+citation: Kamentsky, Lee (2021) MITU01 - Light sheet imaging of the human brain (Version
+  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000108/draft
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -29,16 +20,21 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
-description: This dataset is for testing out the automated production of NGFF microscopy
-  data in preparation for our effort to upload microscopy data to MITU01
+description: This dataset contains images of 2 mm sections of a human brain, stained
+  with NeuN. Each section was delipidated to clear the tissue and stabilized using
+  an elastic polyacrylamide gel. The sample was imaged using light sheet microscopy
+  at a resolution of ~2.5 um x 3.6 um x 2.5 um. Each slab was imaged using multiple
+  stacks. Offset transforms are included with the dataset to enable reconstruction
+  of each slab.
 ethicsApproval: []
 id: DANDI:000108/draft
 identifier: DANDI:000108
 keywords: []
 license:
 - spdx:CC-BY-4.0
-manifestLocation: []
-name: NGFFtest
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000108/versions/draft/assets/
+name: MITU01 - Light sheet imaging of the human brain
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org/
