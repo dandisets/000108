@@ -1,0 +1,12 @@
+[
+  {
+    "SourceReferenceFrame": "original",
+    "TargetReferenceFrame": "slab156",
+    "TransformationType": "translation-3d",
+    "TransformationParameters": {
+      "XOffset": 0.0,
+      "YOffset": 16510.293103448275,
+      "ZOffset": 0.0
+    }
+  }
+]

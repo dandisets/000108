@@ -9,8 +9,17 @@ access:
   schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 14661495809791
+  numberOfFiles: 1107
+  schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Kamentsky, Lee (2021) MITU01 - Light sheet imaging of the human brain (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000108/draft
 contributor:
@@ -43,4 +52,8 @@ schemaVersion: 0.4.4
 studyTarget: []
 url: https://dandiarchive.org/dandiset/000108/draft
 version: draft
-wasGeneratedBy: []
+wasGeneratedBy:
+- name: Brain Initiative Cell Census Network (BICCN)
+  schemaKey: Project
+  used: []
+  wasAssociatedWith: []
