@@ -58577,7 +58577,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"44409f0c3f85e454958e25d957c15213-583"
+"44409f0c3f85e454958e25d957c15213-583",
+"dandi:sha2-256":
+"bea71fcd46ddf5f9d388c695249fe4c52f82bea946d899548e0fc34af2786a1c"
 },
 "encodingFormat":
 "application/x-hdf5",
@@ -58623,7 +58625,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:54:32.895715+00:00",
+"2021-08-10T06:29:25.515304+00:00",
 "path":
 "sub-MITU01/ses-20210702h17m19s06/microscopy/sub-MITU01_run-1_sample-164_stain-NN_chunk-6_spim.h5",
 "size":
@@ -68403,7 +68405,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"7e201ee61eeff983be754124b89046ff-869"
+"7e201ee61eeff983be754124b89046ff-869",
+"dandi:sha2-256":
+"5549f315e2bcc29044cc3f04281f802852ca9e9299eedc4c8ae65b8acb35cdb8"
 },
 "encodingFormat":
 "application/x-hdf5",
@@ -68449,7 +68453,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:54:36.446765+00:00",
+"2021-08-10T07:05:18.164461+00:00",
 "path":
 "sub-MITU01/ses-20210703h01m05s04/microscopy/sub-MITU01_run-1_sample-163_stain-LEC_chunk-2_spim.h5",
 "size":
@@ -74617,7 +74621,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"f79b9535520374405944680dc5bb59e6-610"
+"f79b9535520374405944680dc5bb59e6-610",
+"dandi:sha2-256":
+"13705c78716d859249706a884a5b3841cfb5b4733f10b86a50489758fb941107"
 },
 "encodingFormat":
 "application/x-hdf5",
@@ -74663,7 +74669,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:54:38.690855+00:00",
+"2021-08-10T06:50:12.051122+00:00",
 "path":
 "sub-MITU01/ses-20210704h12m16s34/microscopy/sub-MITU01_run-1_sample-160_stain-LEC_chunk-7_spim.h5",
 "size":
@@ -74783,7 +74789,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"674ab2d723632c758f4e78072b700ab8-309"
+"674ab2d723632c758f4e78072b700ab8-309",
+"dandi:sha2-256":
+"6da21de1831062cd03143864ed7d805676f1f664d58e849f4fceb862da9a353d"
 },
 "encodingFormat":
 "application/x-hdf5",
@@ -74829,7 +74837,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:54:38.781196+00:00",
+"2021-08-10T06:34:32.866248+00:00",
 "path":
 "sub-MITU01/ses-20210704h12m16s34/microscopy/sub-MITU01_run-1_sample-160_stain-YO_chunk-8_spim.h5",
 "size":
