@@ -1,0 +1,64 @@
+{
+  "PixelSize": [
+    2.564,
+    3.625,
+    2.564
+  ],
+  "FieldOfView": [
+    60233.488000000005,
+    7424.0,
+    5251.072
+  ],
+  "BodyPart": "BRAIN",
+  "BodyPartDetails": "Entire brain",
+  "BodyPartDetailsOntology": "SNOMED",
+  "Environment": "exvivo",
+  "SampleEmbedding": "Elastic, exandable polyacrylamide hydrogel",
+  "SampleFixation": "PFA fixation followed by polyepoxy crosslinking",
+  "Pathology": "no pathology",
+  "SampleExtractionProtocol": "autopsy",
+  "SampleExtractionInstitution": "Massachusetts General Hospital",
+  "SampleStaining": "NN",
+  "InstitutionName": "MIT",
+  "InstitutionAddress": "43 Vassar St, Cambridge, Ma.",
+  "InstitutionalDepartmentName": "Kwanghun Chung Lab",
+  "ChunkTransformMatrixAxis": [
+    "X",
+    "Y",
+    "Z"
+  ],
+  "ChunkTransformMatrix": [
+    [
+      2.564,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      3.625,
+      0.0,
+      53227.625
+    ],
+    [
+      0.0,
+      0.0,
+      2.564,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "PixelSizeUnits": "um",
+  "StationName": "oSPIM1",
+  "Immersion": "ExPROTOS",
+  "Magnification": "2x",
+  "NumericalAperture": "0.1",
+  "SliceThickness": "1000",
+  "SamplePrimaryAntibody": "Rabbit Polyclonal Antibody to FOX3/NeuN Cat# RPCA-FOX3",
+  "SampleSecondaryAntibody": "Rhodamine Red\u2122-X (RRX) AffiniPure Donkey Anti-Rabbit IgG (H+L), 711-295-152"
+}
