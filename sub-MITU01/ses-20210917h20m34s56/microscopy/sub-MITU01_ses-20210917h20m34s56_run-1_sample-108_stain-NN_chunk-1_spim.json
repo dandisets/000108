@@ -28,23 +28,25 @@
   "InstitutionName": "MIT",
   "InstitutionAddress": "43 Vassar St, Cambridge, Ma.",
   "InstitutionalDepartmentName": "Kwanghun Chung Lab",
+  "SamplePrimaryAntibody": "Rabbit Polyclonal Antibody to FOX3/NeuN Cat# RPCA-FOX3",
+  "SampleSecondaryAntibody": "Rhodamine Red\u2122-X (RRX) AffiniPure Donkey Anti-Rabbit IgG (H+L), 711-295-152",
   "ChunkTransformMatrix": [
     [
-      1.0,
+      2.564,
       0.0,
       0.0,
       0.0
     ],
     [
       0.0,
-      1.0,
+      3.625,
       0.0,
       0.0
     ],
     [
       0.0,
       0.0,
-      1.0,
+      2.564,
       0.0
     ],
     [
