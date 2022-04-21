@@ -5074,3 +5074,7 @@
 	path = sub-MITU01/ses-20211007h18m22s29/micr/sub-MITU01_ses-20211007h18m22s29_sample-28_stain-LEC_run-1_chunk-5_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/504d2ca6-63da-4f25-8865-23dfb5963066
 	datalad-id = bc9c7027-29e5-4d87-a6d8-e74cad29e517
+[submodule "sub-MITU01/ses-20211007h18m22s29/micr/sub-MITU01_ses-20211007h18m22s29_sample-28_stain-LEC_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-MITU01/ses-20211007h18m22s29/micr/sub-MITU01_ses-20211007h18m22s29_sample-28_stain-LEC_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/450a9cdd-d76b-4ef2-9f3e-00dfd1da543b
+	datalad-id = 1a0443c0-ce59-4785-b4a1-a4c5c0fa920a
