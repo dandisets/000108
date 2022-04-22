@@ -2186,3 +2186,7 @@
 	path = sub-MITU01/ses-20210626h17m19s58/micr/sub-MITU01_ses-20210626h17m19s58_sample-176R2_stain-calretinin_run-1_chunk-1_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/9f342f9b-e589-4bbc-8ebd-665d0123af77
 	datalad-id = 3afac528-9229-4a53-9a44-8aba764879bb
+[submodule "sub-MITU01/ses-20210626h17m19s58/micr/sub-MITU01_ses-20210626h17m19s58_sample-176R2_stain-npy_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-MITU01/ses-20210626h17m19s58/micr/sub-MITU01_ses-20210626h17m19s58_sample-176R2_stain-npy_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/eeb7c3c9-19a9-49e9-bfbf-273eb460c3cd
+	datalad-id = 6474fd7c-e6d6-4804-999b-17541f7bfa18
