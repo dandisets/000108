@@ -1,0 +1,4 @@
+[submodule "sub-MITU01/ses-20220326h16m14s39/micr/sub-MITU01_ses-20220326h16m14s39_sample-6_stain-YO_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-MITU01/ses-20220326h16m14s39/micr/sub-MITU01_ses-20220326h16m14s39_sample-6_stain-YO_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/009da647-9f1a-4a56-bb00-033a3790bc63
+	datalad-id = 789ceccc-a75d-4969-b7d0-6feb2f336c60
