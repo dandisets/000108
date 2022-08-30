@@ -1,0 +1,62 @@
+{
+  "PixelSize": [
+    2.564,
+    3.625,
+    2.564
+  ],
+  "PixelSizeUnits": "um",
+  "FieldOfView": [
+    131463.972,
+    7424.0,
+    5251.072
+  ],
+  "StationName": "oSPIM1",
+  "Immersion": "ExPROTOS",
+  "Magnification": "2x",
+  "NumericalAperture": "0.1",
+  "BodyPart": "BRAIN",
+  "BodyPartDetails": "Entire brain",
+  "BodyPartDetailsOntology": "SNOMED",
+  "Environment": "exvivo",
+  "SampleEmbedding": "Elastic, exandable polyacrylamide hydrogel",
+  "SampleFixation": "PFA fixation followed by polyepoxy crosslinking",
+  "Pathology": "no pathology",
+  "SampleExtractionProtocol": "autopsy",
+  "SampleExtractionInstitution": "Massachusetts General Hospital",
+  "SampleStaining": "LEC",
+  "SliceThickness": "1000",
+  "InstitutionName": "MIT",
+  "InstitutionAddress": "43 Vassar St, Cambridge, Ma.",
+  "InstitutionalDepartmentName": "Kwanghun Chung Lab",
+  "ChunkTransformMatrix": [
+    [
+      2.5632620818012346,
+      0.0,
+      0.0,
+      574.1707063234765
+    ],
+    [
+      0.0,
+      3.625,
+      0.0,
+      59942.25
+    ],
+    [
+      0.0,
+      0.0,
+      2.5632620818012346,
+      -561.3543959144704
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "ChunkTransformMatrixAxis": [
+    "Z",
+    "Y",
+    "X"
+  ]
+}

@@ -11,8 +11,8 @@ access:
 assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
-citation: Kamentsky, Lee (2022) MITU01 - Light sheet imaging of the human brain (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000108/draft
+citation: Kamentsky, Lee (2022) Light sheet imaging of the human brain (Version draft)
+  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000108/draft
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -38,10 +38,15 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000108/versions/draft/assets/
-name: MITU01 - Light sheet imaging of the human brain
+name: Light sheet imaging of the human brain
 protocol: []
-relatedResource: []
-repository: https://dandiarchive.org/
+relatedResource:
+- name: MRI of subject MITU01
+  relation: dcite:IsSupplementedBy
+  repository: DANDI
+  schemaKey: Resource
+  url: https://dandiarchive.org/dandiset/000026/draft/files?location=sub-KC001%2F
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
