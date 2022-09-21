@@ -23,7 +23,7 @@
   "Pathology": "no pathology",
   "SampleExtractionProtocol": "autopsy",
   "SampleExtractionInstitution": "Massachusetts General Hospital",
-  "SampleStaining": "YO",
+  "SampleStaining": "LEC",
   "SliceThickness": "1000",
   "InstitutionName": "MIT",
   "InstitutionAddress": "43 Vassar St, Cambridge, Ma.",

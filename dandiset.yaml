@@ -9,8 +9,19 @@ access:
   schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 335364434404566
+  numberOfFiles: 6901
+  numberOfSamples: 119
+  numberOfSubjects: 2
+  schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Kamentsky, Lee (2022) Light sheet imaging of the human brain (Version draft)
   [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000108/draft
 contributor:
