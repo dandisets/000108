@@ -2,7 +2,8 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000108
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
-about: []
+about:
+- {}
 access:
 - contactPoint:
     schemaKey: ContactPoint
@@ -22,7 +23,8 @@ assetsSummary:
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Kamentsky, Lee (2022) Light sheet imaging of the human brain (Version draft)
+citation: Kamentsky, Lee; Marx, Slayton; Park, Juhyuk; Su-Arcaro, Clover; Moukheiber,
+  Mira; Zhao, Victor (2022) Light sheet imaging of the human brain (Version draft)
   [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000108/draft
 contributor:
 - affiliation: []
@@ -31,6 +33,70 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- affiliation: []
+  email: smarx@mit.edu
+  identifier: 0000-0002-8209-0059
+  includeInCitation: true
+  name: Marx, Slayton
+  roleName:
+  - dcite:DataManager
+  - dcite:DataCurator
+  - dcite:Investigation
+  - dcite:ProjectMember
+  - dcite:Researcher
+  - dcite:Software
+  - dcite:Supervision
+  - dcite:Visualization
+  schemaKey: Person
+- affiliation: []
+  email: juhyuk@mit.edu
+  identifier: 0000-0002-1429-3399
+  includeInCitation: true
+  name: Park, Juhyuk
+  roleName:
+  - dcite:Author
+  - dcite:DataCollector
+  - dcite:Investigation
+  - dcite:ProjectMember
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation: []
+  email: clover13@mit.edu
+  identifier: 0000-0001-5658-5800
+  includeInCitation: true
+  name: Su-Arcaro, Clover
+  roleName:
+  - dcite:DataCollector
+  - dcite:ProjectManager
+  - dcite:ProjectMember
+  - dcite:ProjectAdministration
+  - dcite:Supervision
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation: []
+  email: miram@mit.edu
+  identifier: 0000-0001-8475-6048
+  includeInCitation: true
+  name: Moukheiber, Mira
+  roleName:
+  - dcite:Software
+  schemaKey: Person
+- affiliation: []
+  email: viczhao@mit.edu
+  identifier: 0000-0001-9694-7132
+  includeInCitation: true
+  name: Zhao, Victor
+  roleName:
+  - dcite:Software
+  schemaKey: Person
+- contactPoint: []
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: false
+  name: NIH
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.nih.gov/
 dateCreated: '2021-06-01T14:35:34.166648+00:00'
 description: This dataset contains images of 1 mm sections of human brain tissue showing
   nuclei, NeuN+ cells and blood vessels. Each tissue section was first SHIELD-processed
