@@ -2,8 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000108
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
-about:
-- {}
+about: []
 access:
 - contactPoint:
     schemaKey: ContactPoint
@@ -16,15 +15,15 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 338065422525073
-  numberOfFiles: 6901
-  numberOfSamples: 119
-  numberOfSubjects: 2
+  numberOfBytes: 355159043068024
+  numberOfFiles: 7494
+  numberOfSamples: 122
+  numberOfSubjects: 3
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
 citation: Kamentsky, Lee; Marx, Slayton; Park, Juhyuk; Su-Arcaro, Clover; Moukheiber,
-  Mira; Zhao, Victor (2022) Light sheet imaging of the human brain (Version draft)
+  Mira; Zhao, Victor (2023) Light sheet imaging of the human brain (Version draft)
   [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000108/draft
 contributor:
 - affiliation: []

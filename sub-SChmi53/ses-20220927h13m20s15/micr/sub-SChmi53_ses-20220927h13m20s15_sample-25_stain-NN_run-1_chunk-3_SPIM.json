@@ -1,0 +1,64 @@
+{
+  "PixelSize": [
+    2.3,
+    3.252,
+    2.3
+  ],
+  "PixelSizeUnits": "um",
+  "FieldOfView": [
+    33287.899999999994,
+    6660.096,
+    4710.4
+  ],
+  "StationName": "oSPIM1",
+  "Immersion": "ExPROTOS",
+  "Magnification": "2x",
+  "NumericalAperture": "0.1",
+  "BodyPart": "BRAIN",
+  "BodyPartDetails": "Entire brain",
+  "BodyPartDetailsOntology": "SNOMED",
+  "Environment": "exvivo",
+  "SampleEmbedding": "Elastic, exandable polyacrylamide hydrogel",
+  "SampleFixation": "PFA fixation followed by polyepoxy crosslinking",
+  "Pathology": "no pathology",
+  "SampleExtractionProtocol": "autopsy",
+  "SampleExtractionInstitution": "Massachusetts General Hospital",
+  "SampleStaining": "NN",
+  "SliceThickness": "1000",
+  "InstitutionName": "MIT",
+  "InstitutionAddress": "43 Vassar St, Cambridge, Ma.",
+  "InstitutionalDepartmentName": "Kwanghun Chung Lab",
+  "SamplePrimaryAntibody": "Rabbit Polyclonal Antibody to FOX3/NeuN Cat# RPCA-FOX3",
+  "SampleSecondaryAntibody": "Rhodamine Red\u2122-X (RRX) AffiniPure Donkey Anti-Rabbit IgG (H+L), 711-295-152",
+  "ChunkTransformMatrix": [
+    [
+      2.299511252418652,
+      0.0,
+      0.0,
+      -25.556060480788435
+    ],
+    [
+      0.0,
+      3.252,
+      0.0,
+      11912.076000000001
+    ],
+    [
+      0.0,
+      0.0,
+      2.299511252418652,
+      13.797067514511916
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "ChunkTransformMatrixAxis": [
+    "Z",
+    "Y",
+    "X"
+  ]
+}
