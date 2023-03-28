@@ -15,16 +15,16 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 354992089560298
-  numberOfFiles: 7435
-  numberOfSamples: 122
+  numberOfBytes: 356293067015134
+  numberOfFiles: 7512
+  numberOfSamples: 128
   numberOfSubjects: 4
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
 citation: Kamentsky, Lee; Marx, Slayton; Park, Juhyuk; Su-Arcaro, Clover; Moukheiber,
   Mira; Zhao, Victor (2023) Light sheet imaging of the human brain (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000108/draft
+  [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -97,6 +97,7 @@ contributor:
   schemaKey: Organization
   url: http://www.nih.gov/
 dateCreated: '2021-06-01T14:35:34.166648+00:00'
+datePublished: '2023-03-28T06:42:45.160020+00:00'
 description: This dataset contains images of 1 mm sections of human brain tissue showing
   nuclei, NeuN+ cells and blood vessels. Each tissue section was first SHIELD-processed
   for protein protection and delipidated to clear the tissue. The tissues were stained
@@ -106,6 +107,7 @@ description: This dataset contains images of 1 mm sections of human brain tissue
   at a resolution of ~2.5 um x 3.6 um x 2.5 um. Each slab was imaged using multiple
   stacks. Offset transforms are included with the dataset to enable reconstruction
   of each slab.
+doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000108/draft
 identifier: DANDI:000108
@@ -116,6 +118,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000108/versions/draft/assets/
 name: Light sheet imaging of the human brain
 protocol: []
+publishedBy:
+  endDate: '2023-03-28T06:42:45.160020+00:00'
+  id: urn:uuid:c391eadc-b731-4d35-8ecf-250691483933
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-03-28T06:42:45.160020+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:12deedb3-e885-48b7-9c68-41cc3b236b82
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: MRI of subject MITU01
   relation: dcite:IsSupplementedBy
