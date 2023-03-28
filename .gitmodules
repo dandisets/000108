@@ -15658,26 +15658,6 @@
 	path = sub-SChmi53/ses-20211209h22m41s23/micr/sub-SChmi53_ses-20211209h22m41s23_sample-14_stain-LEC_run-1_chunk-2_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/c177a9c8-4222-476e-9851-fe43ecccdce7
 	datalad-id = 842f5013-d9b8-4208-b1b8-cff0613e8c1a
-[submodule "sub-mEhm/ses-20220825h13m50s21/micr/sub-mEhm_ses-20220825h13m50s21_sample-mEhmAD-O6_R3_stain-NPY_run-1_chunk-1_SPIM.ome.zarr"]
-	path = sub-mEhm/ses-20220825h13m50s21/micr/sub-mEhm_ses-20220825h13m50s21_sample-mEhmAD-O6_R3_stain-NPY_run-1_chunk-1_SPIM.ome.zarr
-	url = https://github.com/dandizarrs/6bacc8fe-e437-4c3b-a59b-dbdf366fa3fc
-	datalad-id = e127b730-cca3-4090-aa4f-2ea7631dce65
-[submodule "sub-mEhm/ses-20220825h13m50s21/micr/sub-mEhm_ses-20220825h13m50s21_sample-mEhmAD-O6_R3_stain-SST_run-1_chunk-1_SPIM.ome.zarr"]
-	path = sub-mEhm/ses-20220825h13m50s21/micr/sub-mEhm_ses-20220825h13m50s21_sample-mEhmAD-O6_R3_stain-SST_run-1_chunk-1_SPIM.ome.zarr
-	url = https://github.com/dandizarrs/ffe88b09-05eb-4d09-b198-27c623471200
-	datalad-id = c233de2b-0c51-45f6-8544-b833ac1ad37f
-[submodule "sub-mEhm/ses-20220825h13m50s21/micr/sub-mEhm_ses-20220825h13m50s21_sample-mEhmAD-O6_R3_stain-YO_run-1_chunk-2_SPIM.ome.zarr"]
-	path = sub-mEhm/ses-20220825h13m50s21/micr/sub-mEhm_ses-20220825h13m50s21_sample-mEhmAD-O6_R3_stain-YO_run-1_chunk-2_SPIM.ome.zarr
-	url = https://github.com/dandizarrs/cfb88b49-456c-4262-bf8d-b6752423d2ec
-	datalad-id = 7330fdcf-3f56-4c42-8f73-e473a72a10b8
-[submodule "sub-mEhm/ses-20220825h13m50s21/micr/sub-mEhm_ses-20220825h13m50s21_sample-mEhmAD-O6_R3_stain-SST_run-1_chunk-3_SPIM.ome.zarr"]
-	path = sub-mEhm/ses-20220825h13m50s21/micr/sub-mEhm_ses-20220825h13m50s21_sample-mEhmAD-O6_R3_stain-SST_run-1_chunk-3_SPIM.ome.zarr
-	url = https://github.com/dandizarrs/a5aad8c4-e039-4da7-b6e3-1c1780bf3878
-	datalad-id = ca84f1ea-ff98-417a-97ed-bca65baf3f2e
-[submodule "sub-mEhm/ses-20220825h13m50s21/micr/sub-mEhm_ses-20220825h13m50s21_sample-mEhmAD-O6_R3_stain-NPY_run-1_chunk-3_SPIM.ome.zarr"]
-	path = sub-mEhm/ses-20220825h13m50s21/micr/sub-mEhm_ses-20220825h13m50s21_sample-mEhmAD-O6_R3_stain-NPY_run-1_chunk-3_SPIM.ome.zarr
-	url = https://github.com/dandizarrs/2d89a8f1-485b-41c1-ae0d-cb0c4fe5d422
-	datalad-id = 6d86862d-14be-441d-aced-9db4912591e4
 [submodule "sub-mEhm/ses-20220827h14m00s37/micr/sub-mEhm_ses-20220827h14m00s37_sample-controlO6R4_stain-PV_run-1_chunk-1_SPIM.ome.zarr"]
 	path = sub-mEhm/ses-20220827h14m00s37/micr/sub-mEhm_ses-20220827h14m00s37_sample-controlO6R4_stain-PV_run-1_chunk-1_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/76b4e0a4-8225-4e0c-b91c-e5fd256a18ca
