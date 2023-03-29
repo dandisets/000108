@@ -15834,3 +15834,163 @@
 	path = sub-mEhm/ses-20220910h12m52s48/micr/sub-mEhm_ses-20220910h12m52s48_sample-ADO6R5_stain-YO_run-1_chunk-1_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/1e37eb89-dd51-46fe-9eef-5323d152880f
 	datalad-id = b4d271a0-58b9-414a-b632-6cd02e21d097
+[submodule "sub-mEhm/ses-20220910h12m52s48/micr/sub-mEhm_ses-20220910h12m52s48_sample-ADO6R5_stain-PTAU_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220910h12m52s48/micr/sub-mEhm_ses-20220910h12m52s48_sample-ADO6R5_stain-PTAU_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/51ddd96c-293b-440f-aefb-d2c4ee6b46d7
+	datalad-id = 51fc15f3-b909-4c06-9ec1-5e86b92e2dde
+[submodule "sub-mEhm/ses-20220910h12m52s48/micr/sub-mEhm_ses-20220910h12m52s48_sample-ADO6R5_stain-CR_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220910h12m52s48/micr/sub-mEhm_ses-20220910h12m52s48_sample-ADO6R5_stain-CR_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/7881a0e8-284d-495a-988e-5b67a9eb743e
+	datalad-id = 4dd4e554-bf49-4397-884c-6128133fba9e
+[submodule "sub-mEhm/ses-20220910h12m52s48/micr/sub-mEhm_ses-20220910h12m52s48_sample-ADO6R5_stain-CR_run-1_chunk-3_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220910h12m52s48/micr/sub-mEhm_ses-20220910h12m52s48_sample-ADO6R5_stain-CR_run-1_chunk-3_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/0cc8ec65-210c-46d5-85e0-a54f3ec264b4
+	datalad-id = ba5e8948-1c09-45d7-ae81-b7a517e7df3d
+[submodule "sub-mEhm/ses-20220910h12m52s48/micr/sub-mEhm_ses-20220910h12m52s48_sample-ADO6R5_stain-YO_run-1_chunk-3_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220910h12m52s48/micr/sub-mEhm_ses-20220910h12m52s48_sample-ADO6R5_stain-YO_run-1_chunk-3_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/6c25ec82-4495-43b3-80b1-0740d0b1b8f9
+	datalad-id = 2b5866f9-1059-4cb1-8a4b-9bc9bde065a8
+[submodule "sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-ABETA_run-1_chunk-3_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-ABETA_run-1_chunk-3_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/65c5e869-7f20-41e1-a554-e6359ad29cd6
+	datalad-id = 1939e455-0b50-49f2-b930-e3450f22dfc4
+[submodule "sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-YO_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-YO_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/f2c580e5-df32-4f2e-a72b-0d4c363ffddd
+	datalad-id = 92e9d318-b7f8-4e88-a9cd-75345417df19
+[submodule "sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-YO_run-1_chunk-3_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-YO_run-1_chunk-3_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/9070150f-904e-44e7-a01d-51722a79cb54
+	datalad-id = dc5d7b79-3c59-4c97-9a03-c028757d8c81
+[submodule "sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-ABETA_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-ABETA_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/05dd3ce5-018d-4047-b989-4c92497e7208
+	datalad-id = 91831a21-c9e0-4d55-9871-689f2b50a3d9
+[submodule "sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-CD31_run-1_chunk-3_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-CD31_run-1_chunk-3_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/c6447f0d-7a94-422e-a17a-050d7b8ed82b
+	datalad-id = 8a3216ef-e2af-4f59-a8fd-9a77f999660c
+[submodule "sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-ABETA_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-ABETA_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/992a83b9-6e6f-41e0-9ab0-05c7df617e1d
+	datalad-id = 3954e3f8-933f-48b5-a5de-94404150d180
+[submodule "sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-CD31_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-CD31_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/a5b70269-0ae1-4762-9eb8-3ffe62ea77ed
+	datalad-id = 42397b15-a134-4a6e-ab56-6fe4a68a4c0a
+[submodule "sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-YO_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-YO_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/985bfab3-33d3-4ebd-8b47-beb61de4cb99
+	datalad-id = 293b8fb6-6eab-4736-b752-13d2e45fc0fe
+[submodule "sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-CD31_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220915h14m33s36/micr/sub-mEhm_ses-20220915h14m33s36_sample-ADO6R6_stain-CD31_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/e41c305f-3826-4089-bf59-cac9b9445134
+	datalad-id = cff8c504-d2b6-4df1-abc2-c44158d97347
+[submodule "sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-SMI_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-SMI_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/efaec796-61e6-49ae-8369-2f550843a496
+	datalad-id = bbde9c5e-6385-4f00-8cbe-8104f46d0b26
+[submodule "sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-MBP_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-MBP_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/fdf30131-52d8-45ff-9b15-4dc90e55b5fa
+	datalad-id = bc3bab65-3691-4019-9caa-5e730c98bc36
+[submodule "sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-MBP_run-1_chunk-3_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-MBP_run-1_chunk-3_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/c0e7f920-7ac4-4fc6-a53c-d2f27d597d52
+	datalad-id = 2b600b20-5038-4503-a1ff-f36d47594f02
+[submodule "sub-mEhm/ses-20220807h18m51s02/micr/sub-mEhm_ses-20220807h18m51s02_sample-112O6R2_stain-ABETA_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220807h18m51s02/micr/sub-mEhm_ses-20220807h18m51s02_sample-112O6R2_stain-ABETA_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/bcf26517-0801-4019-a3e4-791540e92cc9
+	datalad-id = 9cb8babf-6897-4c6d-a088-1cc00903d5fc
+[submodule "sub-mEhm/ses-20220807h18m51s02/micr/sub-mEhm_ses-20220807h18m51s02_sample-112O6R2_stain-YO_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220807h18m51s02/micr/sub-mEhm_ses-20220807h18m51s02_sample-112O6R2_stain-YO_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/4d47d162-72af-4f40-bc82-71bd1e48d443
+	datalad-id = eb4840e0-ae0f-4537-8669-c50922a0a26a
+[submodule "sub-mEhm/ses-20220807h18m51s02/micr/sub-mEhm_ses-20220807h18m51s02_sample-112O6R2_stain-ABETA_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220807h18m51s02/micr/sub-mEhm_ses-20220807h18m51s02_sample-112O6R2_stain-ABETA_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/4d19a07b-60b1-44e6-9904-7d5cb10f7963
+	datalad-id = 351d9f31-e312-43dd-a245-ca9963032b94
+[submodule "sub-mEhm/ses-20220807h18m51s02/micr/sub-mEhm_ses-20220807h18m51s02_sample-112O6R2_stain-IBA1_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220807h18m51s02/micr/sub-mEhm_ses-20220807h18m51s02_sample-112O6R2_stain-IBA1_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/4117a8a9-225e-4459-b24f-018ae359e44d
+	datalad-id = 4bc7d5c3-7143-41c2-ad30-c38ce54ffff8
+[submodule "sub-mEhm/ses-20220807h18m51s02/micr/sub-mEhm_ses-20220807h18m51s02_sample-112O6R2_stain-YO_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220807h18m51s02/micr/sub-mEhm_ses-20220807h18m51s02_sample-112O6R2_stain-YO_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/c3f63f18-7353-436a-88a1-fc6fae9acd58
+	datalad-id = 1fafa16d-cced-4935-80eb-b79e6735be27
+[submodule "sub-mEhm/ses-20220807h18m51s02/micr/sub-mEhm_ses-20220807h18m51s02_sample-112O6R2_stain-IBA1_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220807h18m51s02/micr/sub-mEhm_ses-20220807h18m51s02_sample-112O6R2_stain-IBA1_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/fe84a9a4-6094-42f2-bac3-e81d32aec283
+	datalad-id = 54230bd3-d6e2-400c-8e85-734a6c3d29f1
+[submodule "sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-YO_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-YO_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/2c7e4e7c-8fec-47b4-9870-ed65a6bfd1c8
+	datalad-id = 3ad8846b-420f-4433-9392-09033186028d
+[submodule "sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-MBP_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-MBP_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/46f2ef2f-334c-4d25-a9f2-868e5cf5f7b5
+	datalad-id = fba8848f-9326-46a6-983b-5a71dde54ddb
+[submodule "sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-YO_run-1_chunk-3_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-YO_run-1_chunk-3_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/cb8ec26d-7944-4bd0-bb2f-c96315feefe2
+	datalad-id = dffa65df-00fc-4eb1-9ab2-769ce0672f5b
+[submodule "sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-SMI_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-SMI_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/59a71260-e644-4ba4-8f7a-077b791f1ba0
+	datalad-id = d6811f8c-74c4-423f-943b-3f3ea4295eef
+[submodule "sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-YO_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-YO_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/33257356-a18a-42cb-95e0-c21c01ff14c5
+	datalad-id = 9f7ce234-d8a2-406d-8e2d-608e05657d6b
+[submodule "sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-SMI_run-1_chunk-3_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220924h14m39s16/micr/sub-mEhm_ses-20220924h14m39s16_sample-ADO6R8_stain-SMI_run-1_chunk-3_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/c765024e-ff8b-43ed-b801-5fd7f3b702d9
+	datalad-id = d38af30d-6117-4dad-8f01-2a2130213ac7
+[submodule "sub-mEhm/ses-20220818h13m16s11/micr/sub-mEhm_ses-20220818h13m16s11_sample-112O6R3_stain-YO_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220818h13m16s11/micr/sub-mEhm_ses-20220818h13m16s11_sample-112O6R3_stain-YO_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/66e88079-893c-4fdf-bfdc-d6c9fb9a9b4d
+	datalad-id = 5ed7e3fb-b730-43cd-83ea-aefddc113e05
+[submodule "sub-mEhm/ses-20220818h13m16s11/micr/sub-mEhm_ses-20220818h13m16s11_sample-112O6R3_stain-NPY_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220818h13m16s11/micr/sub-mEhm_ses-20220818h13m16s11_sample-112O6R3_stain-NPY_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/9437e3c0-900f-40a5-a15d-996155f2cffd
+	datalad-id = 12ab7230-106a-4869-b30a-887892d2b9b9
+[submodule "sub-mEhm/ses-20220818h13m16s11/micr/sub-mEhm_ses-20220818h13m16s11_sample-112O6R3_stain-SST_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220818h13m16s11/micr/sub-mEhm_ses-20220818h13m16s11_sample-112O6R3_stain-SST_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/89850e2d-315c-425d-90a2-8862d579e96f
+	datalad-id = c3a67f7c-bd11-4fb9-8c47-a77885917cdc
+[submodule "sub-mEhm/ses-20220818h13m16s11/micr/sub-mEhm_ses-20220818h13m16s11_sample-112O6R3_stain-YO_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220818h13m16s11/micr/sub-mEhm_ses-20220818h13m16s11_sample-112O6R3_stain-YO_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/2bdc6309-eec7-4cd6-acdd-69bee5c2dd6c
+	datalad-id = a98a03b3-8079-4e19-b95a-dd43ddf0ebce
+[submodule "sub-mEhm/ses-20220818h13m16s11/micr/sub-mEhm_ses-20220818h13m16s11_sample-112O6R3_stain-NPY_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220818h13m16s11/micr/sub-mEhm_ses-20220818h13m16s11_sample-112O6R3_stain-NPY_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/69fbd611-6170-4c0b-9702-c6d63798740c
+	datalad-id = 9eb6ca2f-0900-4868-abbf-6c93213a61c0
+[submodule "sub-mEhm/ses-20220818h13m16s11/micr/sub-mEhm_ses-20220818h13m16s11_sample-112O6R3_stain-SST_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220818h13m16s11/micr/sub-mEhm_ses-20220818h13m16s11_sample-112O6R3_stain-SST_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/bf9b6acd-d8ec-4371-b69d-bab0c92cff40
+	datalad-id = 6ffa4a6e-9aab-4498-884d-caed46dc56ee
+[submodule "sub-mEhm/ses-20220923h14m06s10/micr/sub-mEhm_ses-20220923h14m06s10_sample-112O6R8_stain-SMI312_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220923h14m06s10/micr/sub-mEhm_ses-20220923h14m06s10_sample-112O6R8_stain-SMI312_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/9ba4e4dc-9ffc-40f9-8280-040efc2247c7
+	datalad-id = 91fcd7af-750b-4fcd-a4e7-9c6ac73c0826
+[submodule "sub-mEhm/ses-20220923h14m06s10/micr/sub-mEhm_ses-20220923h14m06s10_sample-112O6R8_stain-YO_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220923h14m06s10/micr/sub-mEhm_ses-20220923h14m06s10_sample-112O6R8_stain-YO_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/947adc85-a48c-4402-9e4c-2c99c4982752
+	datalad-id = 3257178d-722c-4f92-90a7-e642e41ed5ba
+[submodule "sub-mEhm/ses-20220923h14m06s10/micr/sub-mEhm_ses-20220923h14m06s10_sample-112O6R8_stain-MBP_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220923h14m06s10/micr/sub-mEhm_ses-20220923h14m06s10_sample-112O6R8_stain-MBP_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/7378f819-139f-49c2-b082-f5c03adbe5a2
+	datalad-id = eaaf7305-1471-490c-bdc9-8fb54ff08f80
+[submodule "sub-mEhm/ses-20220923h14m06s10/micr/sub-mEhm_ses-20220923h14m06s10_sample-112O6R8_stain-SMI312_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220923h14m06s10/micr/sub-mEhm_ses-20220923h14m06s10_sample-112O6R8_stain-SMI312_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/af07a33a-d8b3-49e1-880c-75e1305705d2
+	datalad-id = c094044b-dfed-4411-ae56-c2bc9c1cbaf1
+[submodule "sub-mEhm/ses-20220923h14m06s10/micr/sub-mEhm_ses-20220923h14m06s10_sample-112O6R8_stain-YO_run-1_chunk-1_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220923h14m06s10/micr/sub-mEhm_ses-20220923h14m06s10_sample-112O6R8_stain-YO_run-1_chunk-1_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/9642c42b-403c-4e6f-bf1e-820b6fd2b8f1
+	datalad-id = e972a8c9-e56b-4b9f-845a-5257e355dcf7
+[submodule "sub-mEhm/ses-20220923h14m06s10/micr/sub-mEhm_ses-20220923h14m06s10_sample-112O6R8_stain-MBP_run-1_chunk-2_SPIM.ome.zarr"]
+	path = sub-mEhm/ses-20220923h14m06s10/micr/sub-mEhm_ses-20220923h14m06s10_sample-112O6R8_stain-MBP_run-1_chunk-2_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/85662f25-9a76-4b51-9c38-88e4a30d86bf
+	datalad-id = 7fb94787-33a0-4117-b688-4b1a0608c1bb
