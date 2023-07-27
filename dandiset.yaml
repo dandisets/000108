@@ -9,28 +9,17 @@ access:
   schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  approach: []
-  dataStandard:
-  - identifier: RRID:SCR_016124
-    name: Brain Imaging Data Structure (BIDS)
-    schemaKey: StandardsType
-  measurementTechnique: []
-  numberOfBytes: 354729013927535
-  numberOfFiles: 7521
-  numberOfSamples: 133
-  numberOfSubjects: 4
+  numberOfBytes: 1
+  numberOfFiles: 1
   schemaKey: AssetsSummary
-  species: []
-  variableMeasured: []
 citation: Kamentsky, Lee; Marx, Slayton; Park, Juhyuk; Su-Arcaro, Clover; Moukheiber,
   Mira; Zhao, Victor (2023) Light sheet imaging of the human brain (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000108/draft
+  [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
 - affiliation: []
   includeInCitation: true
   name: Kamentsky, Lee
-  roleName:
-  - dcite:ContactPerson
+  roleName: []
   schemaKey: Person
 - affiliation: []
   email: smarx@mit.edu
@@ -46,6 +35,7 @@ contributor:
   - dcite:Software
   - dcite:Supervision
   - dcite:Visualization
+  - dcite:ContactPerson
   schemaKey: Person
 - affiliation: []
   email: juhyuk@mit.edu
@@ -97,6 +87,7 @@ contributor:
   schemaKey: Organization
   url: http://www.nih.gov/
 dateCreated: '2021-06-01T14:35:34.166648+00:00'
+datePublished: '2023-07-27T15:06:39.895711+00:00'
 description: This dataset contains images of 1 mm sections of human brain tissue showing
   nuclei, NeuN+ cells and blood vessels. Each tissue section was first SHIELD-processed
   for protein protection and delipidated to clear the tissue. The tissues were stained
@@ -106,6 +97,7 @@ description: This dataset contains images of 1 mm sections of human brain tissue
   at a resolution of ~2.5 um x 3.6 um x 2.5 um. Each slab was imaged using multiple
   stacks. Offset transforms are included with the dataset to enable reconstruction
   of each slab.
+doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000108/draft
 identifier: DANDI:000108
@@ -116,6 +108,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000108/versions/draft/assets/
 name: Light sheet imaging of the human brain
 protocol: []
+publishedBy:
+  endDate: '2023-07-27T15:06:39.895711+00:00'
+  id: urn:uuid:24a057b3-a567-444a-8602-acf090c6b84b
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-07-27T15:06:39.895711+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:6726ddd9-f6f2-48d6-8efe-db4d61335d3f
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: Dashboard for available data
   relation: dcite:IsSupplementedBy
