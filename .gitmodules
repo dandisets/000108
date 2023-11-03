@@ -15734,10 +15734,6 @@
 	path = sub-mEhm/ses-20220819h12m59s17/micr/sub-mEhm_ses-20220819h12m59s17_sample-ADO6R2_stain-YO_run-1_chunk-3_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/8d226893-5408-43d7-b8f2-33ed181f393d
 	datalad-id = 2c9215fe-c9bb-46ef-93eb-0e229d33c360
-[submodule "sub-mEhm/ses-20220819h12m59s17/micr/sub-mEhm_ses-20220819h12m59s17_sample-mEhmAD-O6_R2_stain-ABETA_run-1_chunk-3_SPIM.ome.zarr"]
-	path = sub-mEhm/ses-20220819h12m59s17/micr/sub-mEhm_ses-20220819h12m59s17_sample-mEhmAD-O6_R2_stain-ABETA_run-1_chunk-3_SPIM.ome.zarr
-	url = https://github.com/dandizarrs/0faa4432-f225-4e8e-8f6d-5f75a184ca23
-	datalad-id = 421d7d70-8781-4724-af9d-4d6632f60cb3
 [submodule "sub-mEhm/ses-20220819h12m59s17/micr/sub-mEhm_ses-20220819h12m59s17_sample-ADO6R2_stain-IBA1_run-1_chunk-1_SPIM.ome.zarr"]
 	path = sub-mEhm/ses-20220819h12m59s17/micr/sub-mEhm_ses-20220819h12m59s17_sample-ADO6R2_stain-IBA1_run-1_chunk-1_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/10c9193c-47e9-478d-92eb-d1b77bcb745b
