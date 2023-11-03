@@ -9,9 +9,19 @@ access:
   schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 1
-  numberOfFiles: 1
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 371182156843626
+  numberOfFiles: 7976
+  numberOfSamples: 147
+  numberOfSubjects: 5
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Kamentsky, Lee; Marx, Slayton; Park, Juhyuk; Su-Arcaro, Clover; Moukheiber,
   Mira; Zhao, Victor (2023) Light sheet imaging of the human brain (Version draft)
   [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
@@ -87,7 +97,7 @@ contributor:
   schemaKey: Organization
   url: http://www.nih.gov/
 dateCreated: '2021-06-01T14:35:34.166648+00:00'
-datePublished: '2023-07-27T15:06:39.895711+00:00'
+datePublished: '2023-10-28T07:36:51.554373+00:00'
 description: This dataset contains images of 1 mm sections of human brain tissue showing
   nuclei, NeuN+ cells and blood vessels. Each tissue section was first SHIELD-processed
   for protein protection and delipidated to clear the tissue. The tissues were stained
@@ -109,13 +119,13 @@ manifestLocation:
 name: Light sheet imaging of the human brain
 protocol: []
 publishedBy:
-  endDate: '2023-07-27T15:06:39.895711+00:00'
-  id: urn:uuid:24a057b3-a567-444a-8602-acf090c6b84b
+  endDate: '2023-10-28T07:36:51.554373+00:00'
+  id: urn:uuid:915cf197-79ed-4471-b4cb-28894e9676c5
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-07-27T15:06:39.895711+00:00'
+  startDate: '2023-10-28T07:36:51.554373+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:6726ddd9-f6f2-48d6-8efe-db4d61335d3f
+  - id: urn:uuid:fa374805-b86c-42bf-88a5-35c22825eaa4
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
